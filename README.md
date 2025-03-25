@@ -25,7 +25,7 @@ This is a full-stack To-Do List application built using **FastAPI** with MongoDB
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+https://github.com/Nithurzan/todo-list.git
 cd todo-list
 ```
 
